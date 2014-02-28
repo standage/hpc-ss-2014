@@ -1,0 +1,17 @@
+Issues/challenges
+  * increasing scale of genomic data
+  * increasing dimensionality/complexity of data
+    * tissues/conditions
+    * individuals
+    * populations
+    * species
+
+Interests
+  * annotation of genomic features in general
+    * analysis
+    * interpretation
+    * management
+  * annotation of protein-coding genes in particular
+    * improved prediction
+    * improved methods for selecting reliable training data
+    * better integration of multidimensional data
