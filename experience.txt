@@ -1,0 +1,5 @@
+The primary focus of my undergraduate training was bioinformatics, and with a minor in computer science I got exposure to topics such as data structures, algorithms, discrete math & logic, and advanced programming concepts.
+
+As an undegraduate I also got experience with cluster and supercomputing environments, and utilized these both to run software implemented by others as well as my own software. As a graduate student, I've gained additional experience with HPC environments, and on a weekly basis utilize large memory and distributed computing resources provided by my lab (Brendel Group), by my university (Indiana University), and by our national science cyberinfrastructure (iPlant/XSEDE).
+
+My graduate training has included coursework in parallel programming, through which I gained experience both with distributed-memory parallel programming (MPI) and shared-memory parallel programming (OpenMP), as well as brief exposure to hybrid methods.
