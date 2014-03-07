@@ -1,3 +1,9 @@
+## Prompt
+
+> Include familiarity with MPI, OpenMP, multi-core, accelerators and co-processors, application packages, etc. Minimum of 250 words; maximum of 400 words.
+
+## My response
+
 I am a Ph.D. student in Bioinformatics and Computational Biology, and have had substantial training in computer science at both the undergraduate and graduate levels. The nature of my research requires that I use HPC resources on a daily basis, which has provided me considerable experience with different job scheduling & resource management systems, with parallel software applications commonly-used in my field (genomics), and with parallel programming.
 
 While my primary interests as a research scientist are in genome biology, the data-intensive nature of this field has made it increasingly challenging to answer basic research questions without considerable computer science training. My experience with data structures, algorithms, and statistics influences every aspect of my work, the majority of which is spent executing open-source genome analysis software packages, interpreting the results of these packages, and engineering my own software to fully investigate my research questions.
