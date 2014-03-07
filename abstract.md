@@ -1,3 +1,9 @@
+## Prompt
+
+> Minimum of 250 words; maximum of 400 words.
+
+## My response
+
 My research interests are driven by the need to leverage large and complex genomic data sets to address fundamental questions in genome biology.
 
 The escalating pace and decreasing cost with which genome-scale data can be produced and shared is exciting the imagination of scientists everywhere, who now have the ability to investigate their system(s) of interest at unprecedented scales. Raw data at these scales, however, are of little value until they can be accurately assembled, and assembled genome sequences are of little value without reliable annotation. This latter challenge--that of attaching descriptive annotations of genomic features to genome sequences--is the general focus of my research. In particular, I am interested in the annotation of protein-coding genes in eukaryotic organisms.
