@@ -1,7 +1,7 @@
 # Application materials for HPC Summer School
-(c) 2014, Daniel S. Standage <daniel.standage@gmail.com>
+© 2014, Daniel S. Standage <daniel.standage@gmail.com>
 
-## Prompt
+## Main prompt
 
 The following three entries (abstract of research focus, experience with computer science & HPC, and reasons for participation) are critical to the evaluation of your application.
 

@@ -1,3 +1,5 @@
+# Reasons for Participation
+
 ## Prompt
 
 > Describe why you want to participate in the summer school, what you expect to learn, how you plan to apply what you learn, and how you will share what you learn with others. Minimum of 300 words; maximum of 500 words.

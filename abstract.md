@@ -1,3 +1,5 @@
+# Abstract of Research Focus
+
 ## Prompt
 
 > Minimum of 250 words; maximum of 400 words.
